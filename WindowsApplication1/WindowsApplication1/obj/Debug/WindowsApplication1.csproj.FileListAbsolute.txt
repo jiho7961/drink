@@ -1,0 +1,9 @@
+C:\Users\GG201305000024\Desktop\새 폴더 (4)\c#을 이용한 자판기프로그램 음료수 제작과정 및 소스\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\GG201305000024\Desktop\새 폴더 (4)\c#을 이용한 자판기프로그램 음료수 제작과정 및 소스\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\GG201305000024\Desktop\새 폴더 (4)\c#을 이용한 자판기프로그램 음료수 제작과정 및 소스\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csprojAssemblyReference.cache
+C:\Users\GG201305000024\Desktop\새 폴더 (4)\c#을 이용한 자판기프로그램 음료수 제작과정 및 소스\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\GG201305000024\Desktop\새 폴더 (4)\c#을 이용한 자판기프로그램 음료수 제작과정 및 소스\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\GG201305000024\Desktop\새 폴더 (4)\c#을 이용한 자판기프로그램 음료수 제작과정 및 소스\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.cache
+C:\Users\GG201305000024\Desktop\새 폴더 (4)\c#을 이용한 자판기프로그램 음료수 제작과정 및 소스\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\GG201305000024\Desktop\새 폴더 (4)\c#을 이용한 자판기프로그램 음료수 제작과정 및 소스\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\GG201305000024\Desktop\새 폴더 (4)\c#을 이용한 자판기프로그램 음료수 제작과정 및 소스\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
